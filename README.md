@@ -1,2 +1,2 @@
 # arkanoid-xna-csharp
-Arkanoid com em c# utilizando xna
+Arkanoid com c# utilizando xna
