@@ -1,0 +1,6 @@
+E:\Nova pasta\Breakoutx\Breakoutx\BreakoutxContent\obj\x86\Debug\BreakoutxContent.contentprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx\Breakoutx\BreakoutxContent\obj\x86\Debug\BreakoutxContent.contentprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx--1.0\Breakoutx\BreakoutxContent\obj\x86\Debug\BreakoutxContent.contentprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx--2.0\Breakoutx\BreakoutxContent\obj\x86\Debug\BreakoutxContent.contentprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx 2.0\Breakoutx\BreakoutxContent\obj\x86\Debug\BreakoutxContent.contentprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx  teste menu\Breakoutx\BreakoutxContent\obj\x86\Debug\BreakoutxContent.contentprojResolveAssemblyReference.cache

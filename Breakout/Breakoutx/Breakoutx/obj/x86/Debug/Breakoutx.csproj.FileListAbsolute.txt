@@ -1,0 +1,109 @@
+E:\Nova pasta\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.exe
+E:\Nova pasta\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.pdb
+E:\Nova pasta\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.csprojResolveAssemblyReference.cache
+E:\Nova pasta\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Nova pasta\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.exe
+E:\Nova pasta\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.csprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.csprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.xnb
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.wma
+E:\Breakout\Breakoutx--1.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Font1.xnb
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.xnb
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Font1.xnb
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.wma
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.csprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Font2.xnb
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Breakout\Breakoutx--2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Menu.xnb
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.xnb
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Font1.xnb
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Font2.xnb
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Menu.xnb
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.wma
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.csprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx 2.0\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.xnb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\Font1.xnb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\Font2.xnb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\Menu.xnb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\Fundomusical.wma
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.csprojResolveAssemblyReference.cache
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.exe
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\obj\x86\Debug\Breakoutx.pdb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\zoeira.xnb
+E:\Breakout\Breakoutx  teste menu\Breakoutx\Breakoutx\bin\x86\Debug\Content\zoeira.wma
